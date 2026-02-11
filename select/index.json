@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "誰も知らない",
+  "base_artist": "HACHI",
+  "createdAt": "2026-02-11T04:34:22.979135Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "誰も知らない",
+      "artist": "Lamp",
+      "has_synced": false,
+      "path": "select/01_誰も知らない_Lamp.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "誰も知らない",
+      "artist": "DJ Krush feat. 5lack",
+      "has_synced": false,
+      "path": "select/02_誰も知らない_DJ_Krush_feat._5lack.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "誰も知らない",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/03_誰も知らない_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "誰も知らない",
+      "artist": "藤川千愛",
+      "has_synced": true,
+      "path": "select/04_誰も知らない_藤川千愛.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "誰も知らない",
+      "artist": "THE NOVEMBERS",
+      "has_synced": true,
+      "path": "select/05_誰も知らない_THE_NOVEMBERS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "誰も知らない",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": false,
+      "path": "select/06_誰も知らない_9mm_Parabellum_Bullet.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nobody Knows (誰も知らない)",
+      "artist": "Lamp",
+      "has_synced": false,
+      "path": "select/07_Nobody_Knows_(誰も知らない)_Lamp.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "誰も知らない",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/08_誰も知らない_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "誰も知らない",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/09_誰も知らない_嵐.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "【３】誰も知らない、ぼくの先輩",
+      "artist": "シロイルカ",
+      "has_synced": true,
+      "path": "select/10_【3】誰も知らない、ぼくの先輩_シロイルカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誰も知らない",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_誰も知らない_HACHI.txt"
+    }
+  ]
+}
